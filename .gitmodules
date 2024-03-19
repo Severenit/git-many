@@ -1,0 +1,6 @@
+[submodule "pwa"]
+	path = pwa
+	url = git@github.com:Severenit/pwa-practice.git
+[submodule "upload"]
+	path = upload
+	url = git@github.com:Severenit/upload-files.git
